@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pushdemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_push_message_receiver">接收push消息</string>
+    <string name="title_activity_display_message">DisplayMessage</string>
+
+</resources>
